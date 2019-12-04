@@ -23,11 +23,11 @@ body, html {
   padding: 60px 87px 52px; }
 
 .header-content > h1 {
-  color: rgd(239,56,55);
+  color: rgb(239,56,55);
 }
 
 .header-content > p {
-  color: rgd(239,56,55);
+  color: rgb(239,56,55);
 }
 
 .header-content > ul > li {
