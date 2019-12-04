@@ -20,7 +20,13 @@ body, html {
 .header-content {
   position: absolute;
   bottom: 0;
-  padding: 60px 87px 52px; 
+  padding: 60px 87px 52px; }
+
+.header-content > h1 {
+  color: rgd(239,56,55);
+}
+
+.header-content > p {
   color: rgd(239,56,55);
 }
 
