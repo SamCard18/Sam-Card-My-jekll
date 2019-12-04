@@ -1,9 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 body, html {
   margin: 0;
-  font-family: 'Roboto', sans-serif;
-  color: red;
-}
+  font-family: 'Roboto', sans-serif;}
 
 .header-image {
   position: fixed;
