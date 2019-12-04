@@ -22,11 +22,7 @@ body, html {
   bottom: 0;
   padding: 60px 87px 52px; }
 
-.header-content > h1 {
-  color: rgb(239,56,55);
-}
-
-.header-content > p {
+div.header-content > h1, div.header-content > p {
   color: rgb(239,56,55);
 }
 
