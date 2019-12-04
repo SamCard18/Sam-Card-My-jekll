@@ -3,10 +3,6 @@ body, html {
   margin: 0;
   font-family: 'Roboto', sans-serif; }
 
-p {
-  color: red;
-}
-
 .header-image {
   position: fixed;
   min-height: 100vh;
